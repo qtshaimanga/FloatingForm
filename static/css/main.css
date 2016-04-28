@@ -1,0 +1,37 @@
+body {
+	overflow: hidden;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+
+@import url(http://fonts.googleapis.com/css?family=PT+Sans);
+
+audio {
+  /*display: none;*/
+}
+
+h3{
+	position: absolute;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 15px;
+  	text-transform: uppercase;
+  	letter-spacing: 2px;
+	width: 317px;
+	margin-top: 10px;
+	margin-left: 30px;
+	opacity: 0.5;
+}
+
+h3 a {
+	text-decoration: none;
+	color: #999999;
+}
+
+h3 a:hover{
+	color: #333333;
+}
+
+
+
